@@ -9,7 +9,7 @@ env:
   LOCATION: East US
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: a2aaa926-8ff0-43d9-b3bb-3f73bc701244
-  WEBAPP-NAME: eShopOnWeb
+  WEBAPP-NAME: rg-az400-eshoponweb-PASS
 
 
 jobs:
